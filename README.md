@@ -2,6 +2,8 @@
 
 > **Learning project for the [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) course by Anthropic.**  
 
+> [Certificate of completion](https://verify.skilljar.com/c/k2pbxpg8oz8a)
+
 
 A TypeScript utility library providing query functions for a SQLite-backed e-commerce database. Designed to run as a daily cron job for automated order monitoring and alerting.
 
